@@ -48,6 +48,3 @@ app.MapControllerRoute(
     pattern: "{controller=Todos}/{action=Index}/{id?}");
 
 app.Run();
-
-// Note: The provided code block contains commands for Entity Framework migrations and database updates.
-// These commands are not part of the C# code and should be executed in the terminal or command line.
